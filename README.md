@@ -2,7 +2,9 @@
 Each of the files access training data from the file 'price.csv'. The data has already been normalized using _minmax_ scalar so you do not need to normalize it. 
 
 # Result
-![Image](https://raw.githubusercontent.com/abodh/Electricity-cost-forecasting-using-machine-learning-and-deep-learning-models/master/output_plot/hidden_out.png)
+![Image](https://raw.githubusercontent.com/abodh/Electricity-cost-forecasting-using-machine-learning-and-deep-learning-models/master/result/result.png)
+
+
 
 # Dependencies
 Please make sure that you install and import the following packages
